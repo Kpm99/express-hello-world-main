@@ -1,0 +1,21 @@
+form input{
+    display: block;
+   text-align: center;
+    margin:10px 0px 10px 0px;
+    width: 500px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#submit{
+    width:250px;
+    border-radius: 10px;
+    border: 0px lightgrey;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
